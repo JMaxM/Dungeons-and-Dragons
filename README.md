@@ -12,6 +12,7 @@ resources/       — Shared reference material
   npcs/          — NPC profiles and stat blocks
   items/         — Magic items, loot tables
   lore/          — World lore and setting notes
+  rules/         — D&D rules references and homebrew rules
 ```
 
 ## How to use
